@@ -17,6 +17,7 @@ class enviarEmail {
 
         
         //Comentario en la rama desarrollador
+        //Otro comentario de prueba
          try {
             //Server settings
             $mail->SMTPDebug = 0;                      //Enable verbose debug output
