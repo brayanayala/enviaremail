@@ -16,7 +16,7 @@ class enviarEmail {
         $mail = new PHPMailer(true); 
 
         
-        
+        //Comentario en la rama desarrollador
          try {
             //Server settings
             $mail->SMTPDebug = 0;                      //Enable verbose debug output
