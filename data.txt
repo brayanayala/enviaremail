@@ -1,0 +1,15 @@
+cupon_1yearSIESA=SIESA_1A
+cupon_2yearsSIESA=SIESA_2A
+precio12meses_FE=$ 297.500
+precio24meses_FE=$ 535.500
+descuento_FE=$ 60.000
+precio12meses_PJ=$ 785.400
+precio24meses_PJ=$ 1.261.400
+descuento_PJ=$ 309.800
+precio12meses_Token=$ 178.500
+precio24meses_Token=$ 261.800
+descuento_Token=$ 95.200
+precio12meses_Virtual=$ 160.650
+precio24meses_Vitual=$ 238.000
+descuento_Virtual=$ 83.300
+
